@@ -2,7 +2,7 @@
     "name": "carawebs/wp-secure-rest-api",
     "description": "A very simple mu plugin for WordPress that disallows access to REST endpoints for users that are not logged in.",
     "type": "wordpress-plugin",
-    "license": "MIT",
+    "license": "GPL2",
     "authors": [
         {
             "name": "David Egan",
